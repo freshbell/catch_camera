@@ -1,0 +1,2 @@
+include ':app', ':opencv2'
+rootProject.name='catch_camera'

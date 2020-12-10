@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/power"
+        android:icon="@drawable/power"
+        android:iconTintMode="src_in"
+        android:title="off" />
+    <item
+        android:id="@+id/capture"
+        android:icon="@drawable/capture"
+        android:title="capture" />
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/log"
+        android:title="log" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/menu"
+        android:title="menu" />
+</menu>
